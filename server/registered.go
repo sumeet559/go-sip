@@ -3,7 +3,7 @@ package server
 import (
 	"sync"
 
-	"github.com/1lann/go-sip/sipnet"
+	"github.com/sumeet559/go-sip/sipnet"
 )
 
 type registeredUser struct {

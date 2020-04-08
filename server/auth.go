@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/1lann/go-sip/sipnet"
+	"github.com/sumeet559/go-sip/sipnet"
 )
 
 // TODO: Place this in a configuration file

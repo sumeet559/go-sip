@@ -4,8 +4,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/1lann/go-sip/server"
-	"github.com/1lann/go-sip/sipnet"
+
+	"github.com/sumeet559/go-sip/server"
+	"github.com/sumeet559/go-sip/sipnet"
 )
 
 func main() {
